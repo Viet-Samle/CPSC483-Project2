@@ -1,5 +1,5 @@
 # CPSC483-Project2
-Project 2 for CPSC 483 - Introduction to Machine Learning
+Project 2 for CPSC 483 - Introduction to Machine Learning \
 Purpose: Use regression and cross-validation on a dataset to discover a relationship
 
 Libraries Used: 
